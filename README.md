@@ -1,8 +1,6 @@
 <h1 align="center">VueSolitaire</h1>
 <h2 align="center">
 
-[![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)]()
-
 </h2>
 
 <p align="center">
