@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h4 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
+<h1 align="center"><a  href="https://solitairevue.firebaseapp.com">DOWNLOAD</a></h1>
 
 ## Description
 
