@@ -1,4 +1,4 @@
-<h1 align="center">VueSolitaire</h1>
+<h1 align="center">Last Version (2.0.4)</h1>
 <h2 align="center">
 
 </h2>
